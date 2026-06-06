@@ -1,4 +1,5 @@
-# 🚀 ResearchHub AI - Agentic RAG System
+# 🚀 ResearchHub AI - Agentic System
+
 
 An intelligent, full-stack research paper management and analysis platform. ResearchHub AI allows users to upload complex research papers, extract insights, and interact with a highly context-aware AI assistant that retains conversational memory and strictly prevents hallucination.
 
